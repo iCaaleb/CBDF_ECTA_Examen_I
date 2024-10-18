@@ -1,0 +1,5 @@
+com\upiiz\proveedores\controllers\ProveedoresController.class
+com\upiiz\proveedores\models\Proveedor.class
+com\upiiz\proveedores\ProveedoresApplication.class
+com\upiiz\proveedores\services\ProveedoresService.class
+com\upiiz\proveedores\repository\ProveedoresRepository.class
